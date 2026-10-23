@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="ITSKUDEV — Full Stack Software Engineer" width="100%">
+  <img src="assets/header.svg" alt="ITSKUDEV — Full Stack Software Developer" width="100%">
 </p>
 
 <p align="center">
