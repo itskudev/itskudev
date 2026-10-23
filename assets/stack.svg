@@ -15,7 +15,7 @@
   <line x1="438" y1="74" x2="438" y2="224" stroke="#0F2A2E"/>
   <line x1="636" y1="74" x2="636" y2="224" stroke="#0F2A2E"/>
   <g class="mono">
-    <text x="40" y="88" class="h">BACKEND ENGINEERING</text>
+    <text x="40" y="88" class="h">BACKEND</text>
     <text x="40" y="118" class="i"><tspan class="b">›</tspan> Java · Spring Boot</text>
     <text x="40" y="140" class="i"><tspan class="b">›</tspan> Spring MVC · Spring WebFlux</text>
     <text x="40" y="162" class="i"><tspan class="b">›</tspan> Spring Security</text>
@@ -23,7 +23,7 @@
     <text x="40" y="206" class="i"><tspan class="b">›</tspan> C# · ASP.NET Core</text>
     <text x="40" y="228" class="i"><tspan class="b">›</tspan> REST APIs</text>
 
-    <text x="280" y="88" class="h">FRONTEND ENGINEERING</text>
+    <text x="280" y="88" class="h">FRONTEND</text>
     <text x="280" y="118" class="i"><tspan class="b">›</tspan> Angular</text>
     <text x="280" y="140" class="i"><tspan class="b">›</tspan> React</text>
     <text x="280" y="162" class="i"><tspan class="b">›</tspan> TypeScript</text>
