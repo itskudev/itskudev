@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120" role="img" aria-label="Engineering focus">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#00F5D4"/>
-      <stop offset="1" stop-color="#00D9FF"/>
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F0F8FF"/>
     </linearGradient>
     <style>
       .mono { font-family: 'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace; }
-      .n { font-size: 11px; font-weight: 700; fill: #00F5D4; }
-      .l { font-size: 13px; fill: #E6F1FF; }
+      .n { font-size: 11px; font-weight: 700; fill: #FFFFFF; }
+      .l { font-size: 13px; fill: #A8B2C4; }
     </style>
   </defs>
-  <rect x="0.5" y="0.5" width="899" height="119" rx="12" fill="#000000" stroke="#0F2A2E"/>
-  <rect x="40" y="26" width="8" height="8" fill="#00F5D4"/>
+  <rect x="0.5" y="0.5" width="899" height="119" rx="12" fill="#000000" stroke="#1A1A1A"/>
+  <rect x="40" y="26" width="8" height="8" fill="#FFFFFF"/>
   <text x="58" y="35" class="mono" font-size="11" letter-spacing="3" fill="#8892A6">ENGINEERING FOCUS</text>
   <g class="mono">
     <rect x="40" y="56" width="24" height="2" fill="url(#g)"/>
