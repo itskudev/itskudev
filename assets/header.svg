@@ -10,7 +10,7 @@
       @keyframes blink { 50% { opacity: 0; } }
     </style>
   </defs>
-  <rect x="0.5" y="0.5" width="899" height="169" rx="12" fill="#000000" stroke="#0F2A2E"/>
+  <rect x="0.5" y="0.5" width="899" height="169" rx="12" fill="#000000" stroke="#1A1A1A"/>
   <rect x="0" y="0" width="900" height="2" fill="url(#g)"/>
   <text x="860" y="132" text-anchor="end" class="mono" font-size="120" fill="none" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.2">&lt;/&gt;</text>
   <text x="40" y="38" class="mono" font-size="12" fill="#8892A6">~/kudev $ whoami</text>
