@@ -7,7 +7,7 @@
     <style>
       .mono { font-family: 'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace; }
       .n { font-size: 11px; font-weight: 700; fill: #FFFFFF; }
-      .l { font-size: 13px; fill: #C9D1DE; }
+      .l { font-size: 13px; fill: #B9C2D1; }
     </style>
   </defs>
   <rect x="0.5" y="0.5" width="899" height="119" rx="12" fill="#000000" stroke="#1A1A1A"/>
